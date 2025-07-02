@@ -621,6 +621,7 @@
 
 .header__search-input:focus ~ .header__search-history {
   display: block;
+  z-index: 2;
 }
 .header__search-history-list {
   margin: 0;
